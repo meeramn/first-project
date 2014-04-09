@@ -1,5 +1,5 @@
 #Details
 I'm meera
 
-#location
+#Hometown
 * Fremont, CA
