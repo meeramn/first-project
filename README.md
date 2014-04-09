@@ -2,8 +2,6 @@
 
 Hello world
 
-#TODO
-Add new features
-
 #Completed
 Added license file
+Added personal file
