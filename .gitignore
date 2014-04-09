@@ -1,1 +1,4 @@
 personal-secrets.md
+*.log
+notes/*
+!production.notes
